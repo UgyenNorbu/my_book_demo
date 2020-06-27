@@ -2,7 +2,25 @@
 
 ## Vehicle
 
+### Vehicle population
+
+### Vehicle category
+
+### Vehicle populaiton ratio
+
+
 ## Driving license
 
-## Others
+### Driving license issued in 5 regions
 
+### Drive category of driving license
+
+## Fines and penalties
+
+## Motor vehicle crash
+* MVC-population ratio
+* MVC-vehicle population ratio
+
+## Revenue generation
+* online revenue
+* offline revenue

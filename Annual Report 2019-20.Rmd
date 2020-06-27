@@ -1,0 +1,92 @@
+--- 
+title: "Annual Report 2019-20"
+author: "Ugyen Norbu"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: 
+description: "The Annual Report 2019-20 for Road Safety & Transport Authority."
+---
+--- 
+title: "Annual Report 2019-20"
+author: "Ugyen Norbu"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: 
+description: "The Annual Report 2019-20 for Road Safety & Transport Authority."
+---
+
+<!--chapter:end:index.Rmd-->
+
+# The Year in Review {-}
+
+The financial year 2019-20 has been particularly challenging for the Authority.
+
+<!--chapter:end:01-the_year_in_review.Rmd-->
+
+# Orgnisational Profile
+
+## Vision
+
+## Mission
+
+## Organisational structure
+
+## Responsibilities
+
+<!--chapter:end:02-Org_profile.Rmd-->
+
+# Organisational milestone
+
+## Achievements
+
+## Infrastructure development and maintenance
+
+<!--chapter:end:03-Org_milestone.Rmd-->
+
+# Statistical Overview
+
+## Vehicle
+
+### Vehicle population
+
+### Vehicle category
+
+### Vehicle populaiton ratio
+
+
+## Driving license
+
+### Driving license issued in 5 regions
+
+### Drive category of driving license
+
+## Fines and penalties
+
+## Motor vehicle crash
+* MVC-population ratio
+* MVC-vehicle population ratio
+
+## Revenue generation
+* online revenue
+* offline revenue
+
+<!--chapter:end:04-Statistical_overview.Rmd-->
+
+# Challanges
+
+<!--chapter:end:05-Challanges.Rmd-->
+
+# Way Forward
+
+<!--chapter:end:06-way_forward.Rmd-->
+
